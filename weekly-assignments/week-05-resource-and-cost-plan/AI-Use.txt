@@ -1,1 +1,21 @@
+AI-Use for Homework 5
+
+I used Chat GPT
+
+I used AI to help understand the requirements and draft the staffing, cost, cashflow, and RACI tables. It suggested staffing details and cost estimates, checked calculations, and checked grammar.
+
+Prompts Used:
+Suggest project roles and resource allocations for a smart parking platform
+
+Create an initial labor estimate with estimated hours, hourly rates, and costs. Clearly identify your assumptions
+
+Create a budgeted cashflow from october to December that matches the cost plan
+
+Create a raci matrix using these project roles and tasks. Assign one accountable person and at least one responsible person to each task
+
+I revised the staffing assumptions in these tablesUpdate the costs and cashflow and identify inconsistent allocation or hours
+
+
+What I kept and What I changed:
+I kept most of the suggested table layout, cost categories, responsibility descriptions, and RACI assignments. I changed the staffing estimates, hours, hourly rates, and monthly spending to match my project schedule. 
 
